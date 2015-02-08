@@ -8,3 +8,4 @@ meteor-platform
 autopublish
 insecure
 lyuyea:fitgrd
+iron:router
