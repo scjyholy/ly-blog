@@ -2,6 +2,7 @@
   -webkit-box-sizing : border-box;
   -moz-box-sizinh : border-box;
   box-sizing : border-box;
+  font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti, "Microsoft YaHei Light", "Microsoft YaHei", "Segoe UI", Segoe, Arial, sans-serif;
 }
 
 .header{
@@ -11,7 +12,11 @@
 .headerlink{
   text-align : center;
 }
-body{
-  font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti, "Microsoft YaHei Light", "Microsoft YaHei", "Segoe UI", Segoe, Arial, sans-serif;
-
+.HOMElr{
+  width : 15%;
+  background-color : #BCD4E6;
+}
+.HOMEarticle{
+  display : inline;
+  width : 70%;
 }
