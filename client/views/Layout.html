@@ -1,14 +1,17 @@
-<template name = "Layout">
-  <div class = "header">
-      <h1 style = "font-size : 60px;text-align : center;color : white;">绿叶博客</h1>
-      <div class = "headerlink">
-        <a href = "/login">登录/注册</a>
-        <a href = "">分类</a>
-        <a href = "">通知</a>
-        <a href = "">专题</a>
-        <a href = "">交流</a>
-        <a href = "">关于</a>
-      </div>
-  </div>
-  {{> yield}}
+<template name="Layout">
+    <header>
+        <h1 class="title">绿叶博客</h1>
+        <div class="link">
+            <a href="#">登录/注册</a>
+            <a href="#">分类</a>
+            <a href="#">通知</a>
+            <a href="#">专题</a>
+            <a href="#">交流</a>
+            <a href="#">关于</a>
+        </div>
+    </header>
+    {{> yield}}
+    <footer>
+        <p>Copyright 2013-2015 laosb&amp;scjyholy.</p>
+    </footer>
 </template>
