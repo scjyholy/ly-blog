@@ -8,6 +8,9 @@
   height : 224px;
   background-color : #D4D1C1;
 }
+.headerlink{
+  text-align : center;
+}
 body{
   font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti, "Microsoft YaHei Light", "Microsoft YaHei", "Segoe UI", Segoe, Arial, sans-serif;
 
