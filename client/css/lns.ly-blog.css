@@ -56,4 +56,13 @@ footer {
     padding: 10px;
     background-color: #BCD4E6;
 }
-.home-article {}
+.home-article {} .home-article ul {
+    display: block;
+    margin: 10px;
+}
+.home-article ul li {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    background-color: #BCD4E6;
+}
