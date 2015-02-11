@@ -42,6 +42,7 @@ header .link a {
 }
 header .link a:hover {
     border-bottom: 3px solid #fff;
+    color : black;
 }
 footer {
     margin-top: 20px;
@@ -65,4 +66,7 @@ footer {
     margin: 10px;
     padding: 10px;
     background-color: #BCD4E6;
+}
+.home-article ul li:hover{
+    background-color : #ACE1AF;
 }
