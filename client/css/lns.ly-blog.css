@@ -1,3 +1,13 @@
+.newYear{
+    position : fixed;
+    left : 0;
+    top : 0;
+    width : 100%;
+    background-color : #EFDECD;
+    color : #E52B50;
+    text-align : center;
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizinh: border-box;
